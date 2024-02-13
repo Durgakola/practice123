@@ -5,4 +5,10 @@ public class source {
     public void method(){
         System.out.println("from source");
     }
+    public void add(){
+        System.out.println(a+b);
+    }
+    public void sub(){
+        System.out.println(a-b);
+    }
 }
